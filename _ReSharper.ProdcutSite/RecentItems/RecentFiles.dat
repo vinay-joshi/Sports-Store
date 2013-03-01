@@ -1,0 +1,52 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="E7BD9C55-F7AD-4133-88E0-E8B59A1F812A/d:Abstract/f:IProductsRepository.cs" caret="165" fromTop="6" />
+    <File id="E7BD9C55-F7AD-4133-88E0-E8B59A1F812A/d:Entities/f:Product.cs" caret="0" fromTop="0" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:HtmlHelpers/f:PagingHelpers.cs" caret="0" fromTop="0" />
+    <File id="E7BD9C55-F7AD-4133-88E0-E8B59A1F812A/f:Class1.cs" caret="0" fromTop="0" />
+    <File id="E7BD9C55-F7AD-4133-88E0-E8B59A1F812A/d:Entities/f:Cart.cs" caret="1317" fromTop="31" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Models/f:ProductsListViewModel.cs" caret="319" fromTop="9" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Views/d:Shared/f:ProductSummary.cshtml" caret="272" fromTop="8" />
+    <File id="5CB01825-2737-4F1F-8F13-B40A53A94B48/f:UnitTest1.cs" caret="10194" fromTop="28" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Models/f:CartIndexViewModel.cs" caret="309" fromTop="13" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Models/f:PagingInfo.cs" caret="0" fromTop="0" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Controllers/f:ProductController.cs" caret="515" fromTop="9" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Content/f:Site.css" caret="1926" fromTop="0" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Views/d:Cart/f:Index.cshtml" caret="0" fromTop="0" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Binders/f:CartModelBinder.cs" caret="506" fromTop="14" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/f:Global.asax.cs" caret="0" fromTop="0" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/f:RouteConfig.cs" caret="1987" fromTop="24" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/f:Web.config" caret="631" fromTop="11" />
+    <File id="E7BD9C55-F7AD-4133-88E0-E8B59A1F812A/d:Concrete/f:EFDbContext.cs" caret="284" fromTop="11" />
+    <File id="E7BD9C55-F7AD-4133-88E0-E8B59A1F812A/d:Concrete/f:EFProductRepository.cs" caret="170" fromTop="5" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Controllers/f:NinjectControllerFactory.cs" caret="756" fromTop="17" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Views/d:Product/f:List.cshtml" caret="421" fromTop="20" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Controllers/f:NavController.cs" caret="623" fromTop="17" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Views/d:Shared/f:_Layout.cshtml" caret="479" fromTop="14" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Views/d:Nav/f:Menu.cshtml" caret="427" fromTop="18" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Controllers/f:CartController.cs" caret="1064" fromTop="25" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="E7BD9C55-F7AD-4133-88E0-E8B59A1F812A/d:Entities/f:Product.cs" caret="388" fromTop="13" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:HtmlHelpers/f:PagingHelpers.cs" caret="63" fromTop="2" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/f:Web.config" caret="1544" fromTop="31" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Models/f:PagingInfo.cs" caret="376" fromTop="14" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Models/f:ProductsListViewModel.cs" caret="319" fromTop="9" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Views/d:Product/f:List.cshtml" caret="750" fromTop="29" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Views/d:Shared/f:_Layout.cshtml" caret="498" fromTop="14" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Controllers/f:ProductController.cs" caret="1263" fromTop="27" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/f:RouteConfig.cs" caret="699" fromTop="18" />
+    <File id="E7BD9C55-F7AD-4133-88E0-E8B59A1F812A/d:Entities/f:Cart.cs" caret="1159" fromTop="30" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Views/d:Shared/f:ProductSummary.cshtml" caret="315" fromTop="9" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Models/f:CartIndexViewModel.cs" caret="291" fromTop="11" />
+    <File id="5CB01825-2737-4F1F-8F13-B40A53A94B48/f:UnitTest1.cs" caret="9651" fromTop="16" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Content/f:Site.css" caret="2838" fromTop="33" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Views/d:Cart/f:Index.cshtml" caret="104" fromTop="5" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Binders/f:CartModelBinder.cs" caret="506" fromTop="14" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/f:Global.asax.cs" caret="0" fromTop="0" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Controllers/f:NavController.cs" caret="691" fromTop="20" />
+    <File id="E7BD9C55-F7AD-4133-88E0-E8B59A1F812A/d:Concrete/f:EFDbContext.cs" caret="298" fromTop="11" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Views/d:Nav/f:Menu.cshtml" caret="427" fromTop="18" />
+    <File id="495B162C-6B43-4F1C-A004-788D3B2F194E/d:Controllers/f:CartController.cs" caret="608" fromTop="16" />
+  </RecentEdits>
+</RecentFiles>

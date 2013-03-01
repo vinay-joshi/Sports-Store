@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="495B162C-6B43-4F1C-A004-788D3B2F194E" ModuleId="ProdcutSite" />
+  <Module PersistentId="E7BD9C55-F7AD-4133-88E0-E8B59A1F812A" ModuleId="ProductSite.Domain" />
+  <Module PersistentId="5CB01825-2737-4F1F-8F13-B40A53A94B48" ModuleId="ProductSite.UnitTests" />
+</Modules>
